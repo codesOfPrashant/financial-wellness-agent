@@ -1,0 +1,36 @@
+[
+  {
+    "employeeId": "emp_101",
+    "latestMonth": "April 2026",
+    "basicSalary": 50000,
+    "hra": 20000,
+    "specialAllowance": 15000,
+    "lta": 0,
+    "pf": 1800,
+    "professionalTax": 200,
+    "tds": 5000,
+    "reimbursements": 3000,
+    "grossPay": 88000,
+    "netPay": 76000,
+    "ytdGross": 365500,
+    "ytdTax": 19400,
+    "totalDeductions": 7000
+  },
+  {
+    "employeeId": "emp_102",
+    "latestMonth": "April 2026",
+    "basicSalary": 65000,
+    "hra": 26000,
+    "specialAllowance": 20000,
+    "lta": 0,
+    "pf": 2340,
+    "professionalTax": 200,
+    "tds": 7500,
+    "reimbursements": 3500,
+    "grossPay": 114840,
+    "netPay": 101300,
+    "ytdGross": 478860,
+    "ytdTax": 29100,
+    "totalDeductions": 10040
+  }
+]

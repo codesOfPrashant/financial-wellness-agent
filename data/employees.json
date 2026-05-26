@@ -1,0 +1,16 @@
+[
+  {
+    "id": "emp_101",
+    "name": "Priya Sharma",
+    "email": "priya.sharma@company.com",
+    "department": "Engineering",
+    "designation": "Senior Software Engineer"
+  },
+  {
+    "id": "emp_102",
+    "name": "Rahul Mehta",
+    "email": "rahul.mehta@company.com",
+    "department": "Product",
+    "designation": "Product Manager"
+  }
+]
